@@ -13,5 +13,5 @@ def getData():
     print(f"Average elo: {average_elo}")
     return total_users, average_elo
 
-
+getData()
     
