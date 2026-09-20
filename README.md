@@ -6,7 +6,7 @@ Collection of all scripts, snapshots and figures used within my Edexcel Level 2 
 Candidate Name: Ved Thakkar \
 Candidate Number: 2111 \
 Centre Number: 14285 \
-Qualification: P201 \
+Qualification: P201
 
 ## Data sources
 All data was retrieved using the Codeforces API: https://codeforces.com/apiHelp \
